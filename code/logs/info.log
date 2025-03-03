@@ -1,0 +1,2573 @@
+2025-02-28 18:04:02,091 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:04:02,091 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:04:02,092 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:04:02,092 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:04:02,092 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:04:02,212 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:04:02,212 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:04:02,212 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:04:02,216 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:04:02,216 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:04:02,216 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:04:02,221 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:04:02,221 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:04:02,222 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:04:02,222 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:04:02,222 - INFO - Fetching Encoder Data
+2025-02-28 18:04:02,222 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:04:02,222 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:04:02,222 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:04:02,222 - INFO - Fetching Lidar Data
+2025-02-28 18:04:02,222 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:04:02,222 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:04:02,222 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:04:02,222 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:04:02,222 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:04:02,222 - INFO - Fetching IMU Data
+2025-02-28 18:04:02,222 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:04:02,222 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:04:02,222 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:04:02,223 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:04:02,223 - INFO - Fetching PointCloud Data
+2025-02-28 18:07:26,125 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:07:26,126 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:07:26,127 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:07:26,127 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:07:26,127 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:07:26,246 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:07:26,246 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:07:26,246 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:07:26,249 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:07:26,249 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:07:26,249 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:07:26,255 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:07:26,255 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:07:26,255 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:07:26,256 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:07:26,256 - INFO - Fetching Encoder Data
+2025-02-28 18:07:26,256 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:07:26,256 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:07:26,256 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:07:26,256 - INFO - Fetching Lidar Data
+2025-02-28 18:07:26,256 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:07:26,256 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:07:26,256 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:07:26,256 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:07:26,256 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:07:26,256 - INFO - Fetching IMU Data
+2025-02-28 18:07:26,256 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:07:26,256 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:07:26,256 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:07:26,256 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:07:26,256 - INFO - Fetching PointCloud Data
+2025-02-28 18:08:18,282 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:08:18,282 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:08:18,283 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:08:18,283 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:08:18,283 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:08:18,399 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:08:18,399 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:08:18,399 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:08:18,403 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:08:18,403 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:08:18,403 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:08:18,408 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:08:18,408 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:08:18,409 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:08:18,409 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:08:18,409 - INFO - Fetching Encoder Data
+2025-02-28 18:08:18,409 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:08:18,409 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:08:18,409 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:08:18,409 - INFO - Fetching Lidar Data
+2025-02-28 18:08:18,409 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:08:18,409 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:08:18,409 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:08:18,409 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:08:18,409 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:08:18,409 - INFO - Fetching IMU Data
+2025-02-28 18:08:18,409 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:08:18,409 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:08:18,409 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:08:18,409 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:08:18,409 - INFO - Fetching PointCloud Data
+2025-02-28 18:08:26,256 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:08:26,256 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:08:26,257 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:08:26,257 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:08:26,257 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:08:26,374 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:08:26,375 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:08:26,375 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:08:26,378 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:08:26,378 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:08:26,378 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:08:26,383 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:08:26,383 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:08:26,384 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:08:26,384 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:08:26,384 - INFO - Fetching Encoder Data
+2025-02-28 18:08:26,384 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:08:26,384 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:08:26,384 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:08:26,384 - INFO - Fetching Lidar Data
+2025-02-28 18:08:26,385 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:08:26,385 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:08:26,385 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:08:26,385 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:08:26,385 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:08:26,385 - INFO - Fetching IMU Data
+2025-02-28 18:08:26,385 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:08:26,385 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:08:26,385 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:08:26,385 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:08:26,385 - INFO - Fetching PointCloud Data
+2025-02-28 18:09:07,386 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:09:07,386 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:09:07,387 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:09:07,387 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:09:07,387 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:09:07,505 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:09:07,506 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:09:07,506 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:09:07,509 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:09:07,509 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:09:07,509 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:09:07,514 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:09:07,514 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:09:07,515 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:09:07,515 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:09:07,515 - INFO - Fetching Encoder Data
+2025-02-28 18:09:07,515 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:09:07,515 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:09:07,515 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:09:07,515 - INFO - Fetching Lidar Data
+2025-02-28 18:09:07,515 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:09:07,515 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:09:07,516 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:09:07,516 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:09:07,516 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:09:07,516 - INFO - Fetching IMU Data
+2025-02-28 18:09:07,516 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:09:07,516 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:09:07,516 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:09:07,516 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:09:07,516 - INFO - Fetching PointCloud Data
+2025-02-28 18:09:55,563 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:09:55,563 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:09:55,564 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:09:55,564 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:09:55,564 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:09:55,684 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:09:55,684 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:09:55,684 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:09:55,687 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:09:55,687 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:09:55,687 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:09:55,692 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:09:55,692 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:09:55,693 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:09:55,693 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:09:55,693 - INFO - Fetching Encoder Data
+2025-02-28 18:09:55,693 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:09:55,693 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:09:55,693 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:09:55,693 - INFO - Fetching Lidar Data
+2025-02-28 18:09:55,693 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:09:55,693 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:09:55,694 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:09:55,694 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:09:55,694 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:09:55,694 - INFO - Fetching IMU Data
+2025-02-28 18:09:55,694 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:09:55,694 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:09:55,694 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:09:55,694 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:09:55,694 - INFO - Fetching PointCloud Data
+2025-02-28 18:10:09,395 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:10:09,395 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:10:09,396 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:10:09,396 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:10:09,396 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:10:09,513 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:10:09,513 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:10:09,513 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:10:09,517 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:10:09,517 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:10:09,517 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:10:09,522 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:10:09,522 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:10:09,523 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:10:09,523 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:10:09,523 - INFO - Fetching Encoder Data
+2025-02-28 18:10:09,523 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:10:09,523 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:10:09,523 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:10:09,523 - INFO - Fetching Lidar Data
+2025-02-28 18:10:09,523 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:10:09,523 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:10:09,523 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:10:09,523 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:10:09,523 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:10:09,523 - INFO - Fetching IMU Data
+2025-02-28 18:10:09,523 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:10:09,523 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:10:09,523 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:10:09,523 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:10:09,523 - INFO - Fetching PointCloud Data
+2025-02-28 18:13:42,652 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:13:42,652 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:13:42,653 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:13:42,653 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:13:42,653 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:13:42,773 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:13:42,773 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:13:42,773 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:13:42,776 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:13:42,776 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:13:42,776 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:13:42,781 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:13:42,781 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:13:42,782 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:13:42,782 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:13:42,782 - INFO - Fetching Encoder Data
+2025-02-28 18:13:42,782 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:13:42,782 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:13:42,782 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:13:42,782 - INFO - Fetching Lidar Data
+2025-02-28 18:13:42,782 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:13:42,782 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:13:42,782 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:13:42,782 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:13:42,782 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:13:42,782 - INFO - Fetching IMU Data
+2025-02-28 18:13:42,782 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:13:42,783 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:13:42,783 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:13:42,783 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:13:42,783 - INFO - Fetching PointCloud Data
+2025-02-28 18:17:16,385 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:17:16,386 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:17:16,387 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:17:16,387 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:17:16,387 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:17:16,504 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:17:16,504 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:17:16,504 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:17:16,507 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:17:16,507 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:17:16,507 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:17:16,512 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:17:16,512 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:17:16,513 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:17:16,514 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:17:16,514 - INFO - Fetching Encoder Data
+2025-02-28 18:17:16,514 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:17:16,514 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:17:16,514 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:17:16,514 - INFO - Fetching Lidar Data
+2025-02-28 18:17:16,514 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:17:16,514 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:17:16,514 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:17:16,514 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:17:16,514 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:17:16,514 - INFO - Fetching IMU Data
+2025-02-28 18:17:16,514 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:17:16,514 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:17:16,514 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:17:16,514 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:17:16,514 - INFO - Fetching PointCloud Data
+2025-02-28 18:20:38,512 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:20:38,512 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:20:38,513 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:20:38,513 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:20:38,513 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:20:38,673 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:20:38,673 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:20:38,673 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:20:38,678 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:20:38,678 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:20:38,678 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:20:38,684 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:20:38,684 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:20:38,685 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:20:38,685 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:20:38,685 - INFO - Fetching Encoder Data
+2025-02-28 18:20:38,685 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:20:38,685 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:20:38,685 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:20:38,685 - INFO - Fetching Lidar Data
+2025-02-28 18:20:38,685 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:20:38,685 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:20:38,685 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:20:38,685 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:20:38,685 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:20:38,685 - INFO - Fetching IMU Data
+2025-02-28 18:20:38,685 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:20:38,686 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:20:38,686 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:20:38,686 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:20:38,686 - INFO - Fetching PointCloud Data
+2025-02-28 18:27:31,174 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:27:31,174 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:27:31,175 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:27:31,175 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:27:31,175 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:27:31,305 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:27:31,305 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:27:31,305 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:27:31,308 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:27:31,309 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:27:31,309 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:27:31,314 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:27:31,314 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:27:31,315 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:27:31,315 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:27:31,315 - INFO - Fetching Encoder Data
+2025-02-28 18:27:31,315 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:27:31,315 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:27:31,315 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:27:31,315 - INFO - Fetching Lidar Data
+2025-02-28 18:27:31,315 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:27:31,315 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:27:31,315 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:27:31,315 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:27:31,315 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:27:31,315 - INFO - Fetching IMU Data
+2025-02-28 18:27:31,315 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:27:31,315 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:27:31,315 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:27:31,315 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:27:31,315 - INFO - Fetching PointCloud Data
+2025-02-28 18:32:51,619 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:32:51,619 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:32:51,621 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:32:51,621 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:32:51,621 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:32:51,741 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:32:51,742 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:32:51,742 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:32:51,745 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:32:51,745 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:32:51,745 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:32:51,751 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:32:51,751 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:32:51,752 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:32:51,752 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:32:51,752 - INFO - Fetching Encoder Data
+2025-02-28 18:32:51,752 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:32:51,752 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:32:51,752 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:32:51,752 - INFO - Fetching Lidar Data
+2025-02-28 18:32:51,752 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:32:51,752 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:32:51,752 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:32:51,752 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:32:51,752 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:32:51,752 - INFO - Fetching IMU Data
+2025-02-28 18:32:51,752 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:32:51,752 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:32:51,752 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:32:51,752 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:32:51,752 - INFO - Fetching PointCloud Data
+2025-02-28 18:33:39,027 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:33:39,027 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:33:39,029 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:33:39,029 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:33:39,029 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:33:39,153 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:33:39,153 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:33:39,153 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:33:39,156 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:33:39,156 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:33:39,156 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:33:39,162 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:33:39,162 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:33:39,163 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:33:39,163 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:33:39,163 - INFO - Fetching Encoder Data
+2025-02-28 18:33:39,163 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:33:39,163 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:33:39,163 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:33:39,163 - INFO - Fetching Lidar Data
+2025-02-28 18:33:39,163 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:33:39,163 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:33:39,163 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:33:39,163 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:33:39,163 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:33:39,163 - INFO - Fetching IMU Data
+2025-02-28 18:33:39,163 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:33:39,163 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:33:39,163 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:33:39,163 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:33:39,163 - INFO - Fetching PointCloud Data
+2025-02-28 18:37:16,953 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:37:16,953 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:37:16,954 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:37:16,954 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:37:16,954 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:37:17,081 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:37:17,081 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:37:17,081 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:37:17,085 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:37:17,085 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:37:17,085 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:37:17,091 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:37:17,091 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:37:17,092 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:37:17,092 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:37:17,092 - INFO - Fetching Encoder Data
+2025-02-28 18:37:17,092 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:37:17,092 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:37:17,092 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:37:17,092 - INFO - Fetching Lidar Data
+2025-02-28 18:37:17,092 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:37:17,092 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:37:17,092 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:37:17,092 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:37:17,092 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:37:17,092 - INFO - Fetching IMU Data
+2025-02-28 18:37:17,092 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:37:17,092 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:37:17,092 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:37:17,092 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:37:17,092 - INFO - Fetching PointCloud Data
+2025-02-28 18:40:52,334 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:40:52,334 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:40:52,335 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:40:52,335 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:40:52,335 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:40:52,449 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:40:52,449 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:40:52,449 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:40:52,452 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:40:52,453 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:40:52,453 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:40:52,458 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:40:52,458 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:40:52,459 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:40:52,459 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:40:52,459 - INFO - Fetching Encoder Data
+2025-02-28 18:40:52,459 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:40:52,459 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:40:52,459 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:40:52,459 - INFO - Fetching Lidar Data
+2025-02-28 18:40:52,459 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:40:52,459 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:40:52,459 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:40:52,459 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:40:52,459 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:40:52,459 - INFO - Fetching IMU Data
+2025-02-28 18:40:52,459 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:40:52,459 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:40:52,459 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:40:52,459 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:40:52,459 - INFO - Fetching PointCloud Data
+2025-02-28 18:40:58,730 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:40:58,730 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:40:58,731 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:40:58,731 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:40:58,731 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:40:58,845 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:40:58,845 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:40:58,845 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:40:58,848 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:40:58,848 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:40:58,848 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:40:58,853 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:40:58,853 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:40:58,854 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:40:58,855 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:40:58,855 - INFO - Fetching Encoder Data
+2025-02-28 18:40:58,855 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:40:58,855 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:40:58,855 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:40:58,855 - INFO - Fetching Lidar Data
+2025-02-28 18:40:58,855 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:40:58,855 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:40:58,855 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:40:58,855 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:40:58,855 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:40:58,855 - INFO - Fetching IMU Data
+2025-02-28 18:40:58,855 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:40:58,855 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:40:58,855 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:40:58,855 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:40:58,855 - INFO - Fetching PointCloud Data
+2025-02-28 18:41:04,734 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:41:04,734 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:41:04,735 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:41:04,735 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:41:04,735 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:41:04,857 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:41:04,857 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:41:04,857 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:41:04,861 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:41:04,861 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:41:04,861 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:41:04,866 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:41:04,866 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:41:04,867 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:41:04,867 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:41:04,867 - INFO - Fetching Encoder Data
+2025-02-28 18:41:04,867 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:41:04,867 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:41:04,867 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:41:04,867 - INFO - Fetching Lidar Data
+2025-02-28 18:41:04,867 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:41:04,867 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:41:04,867 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:41:04,867 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:41:04,867 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:41:04,867 - INFO - Fetching IMU Data
+2025-02-28 18:41:04,867 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:41:04,867 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:41:04,867 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:41:04,867 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:41:04,868 - INFO - Fetching PointCloud Data
+2025-02-28 18:44:27,801 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:44:27,801 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:44:27,802 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:44:27,802 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:44:27,802 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:44:27,921 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:44:27,921 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:44:27,921 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:44:27,924 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:44:27,924 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:44:27,924 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:44:27,929 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:44:27,929 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:44:27,930 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:44:27,930 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:44:27,930 - INFO - Fetching Encoder Data
+2025-02-28 18:44:27,930 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:44:27,930 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:44:27,930 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:44:27,930 - INFO - Fetching Lidar Data
+2025-02-28 18:44:27,930 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:44:27,930 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:44:27,931 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:44:27,931 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:44:27,931 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:44:27,931 - INFO - Fetching IMU Data
+2025-02-28 18:44:27,931 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:44:27,931 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:44:27,931 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:44:27,931 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:44:27,931 - INFO - Fetching PointCloud Data
+2025-02-28 18:48:01,154 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:48:01,154 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:48:01,155 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:48:01,155 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:48:01,155 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:48:01,274 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:48:01,274 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:48:01,274 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:48:01,278 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:48:01,278 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:48:01,278 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:48:01,283 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:48:01,283 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:48:01,284 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:48:01,284 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:48:01,284 - INFO - Fetching Encoder Data
+2025-02-28 18:48:01,284 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:48:01,284 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:48:01,284 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:48:01,284 - INFO - Fetching Lidar Data
+2025-02-28 18:48:01,284 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:48:01,284 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:48:01,284 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:48:01,284 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:48:01,284 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:48:01,284 - INFO - Fetching IMU Data
+2025-02-28 18:48:01,284 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:48:01,284 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:48:01,284 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:48:01,284 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:48:01,284 - INFO - Fetching PointCloud Data
+2025-02-28 18:53:26,817 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:53:26,817 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:53:26,819 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:53:26,819 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:53:26,819 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:53:26,957 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:53:26,957 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:53:26,957 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:53:26,960 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:53:26,961 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:53:26,961 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:53:26,967 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:53:26,967 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:53:26,968 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:53:26,968 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:53:26,968 - INFO - Fetching Encoder Data
+2025-02-28 18:53:26,968 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:53:26,968 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:53:26,968 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:53:26,968 - INFO - Fetching Lidar Data
+2025-02-28 18:53:26,968 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:53:26,968 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:53:26,968 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:53:26,968 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:53:26,968 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:53:26,968 - INFO - Fetching IMU Data
+2025-02-28 18:53:26,968 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:53:26,968 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:53:26,968 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:53:26,968 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:53:26,968 - INFO - Fetching PointCloud Data
+2025-02-28 18:56:42,008 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 18:56:42,008 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 18:56:42,009 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 18:56:42,010 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 18:56:42,010 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 18:56:42,131 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 18:56:42,131 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 18:56:42,131 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 18:56:42,135 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 18:56:42,135 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 18:56:42,135 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 18:56:42,140 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 18:56:42,140 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 18:56:42,141 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 18:56:42,141 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 18:56:42,141 - INFO - Fetching Encoder Data
+2025-02-28 18:56:42,141 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 18:56:42,141 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 18:56:42,141 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 18:56:42,141 - INFO - Fetching Lidar Data
+2025-02-28 18:56:42,141 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 18:56:42,141 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 18:56:42,141 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 18:56:42,141 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 18:56:42,141 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 18:56:42,141 - INFO - Fetching IMU Data
+2025-02-28 18:56:42,141 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 18:56:42,141 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 18:56:42,141 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 18:56:42,141 - INFO - Accessing point cloud data for source and target
+2025-02-28 18:56:42,141 - INFO - Fetching PointCloud Data
+2025-02-28 19:04:07,405 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 19:04:07,405 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 19:04:07,407 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 19:04:07,407 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 19:04:07,407 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 19:04:07,529 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 19:04:07,529 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 19:04:07,529 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 19:04:07,532 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 19:04:07,532 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 19:04:07,532 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 19:04:07,538 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 19:04:07,538 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 19:04:07,539 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 19:04:07,539 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 19:04:07,539 - INFO - Fetching Encoder Data
+2025-02-28 19:04:07,539 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 19:04:07,539 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 19:04:07,539 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 19:04:07,539 - INFO - Fetching Lidar Data
+2025-02-28 19:04:07,539 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 19:04:07,539 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 19:04:07,539 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 19:04:07,539 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 19:04:07,539 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 19:04:07,539 - INFO - Fetching IMU Data
+2025-02-28 19:04:07,539 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 19:04:07,539 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 19:04:07,539 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 19:04:07,539 - INFO - Accessing point cloud data for source and target
+2025-02-28 19:04:07,539 - INFO - Fetching PointCloud Data
+2025-02-28 19:14:44,604 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 19:14:44,604 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 19:14:44,605 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 19:14:44,605 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 19:14:44,605 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 19:14:44,720 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 19:14:44,720 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 19:14:44,720 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 19:14:44,723 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 19:14:44,723 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 19:14:44,723 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 19:14:44,728 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 19:14:44,728 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 19:14:44,729 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 19:14:44,729 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 19:14:44,729 - INFO - Fetching Encoder Data
+2025-02-28 19:14:44,729 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 19:14:44,729 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 19:14:44,729 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 19:14:44,729 - INFO - Fetching Lidar Data
+2025-02-28 19:14:44,729 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 19:14:44,729 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 19:14:44,729 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 19:14:44,729 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 19:14:44,729 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 19:14:44,729 - INFO - Fetching IMU Data
+2025-02-28 19:14:44,730 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 19:14:44,730 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 19:14:44,730 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 19:14:44,730 - INFO - Accessing point cloud data for source and target
+2025-02-28 19:14:44,730 - INFO - Fetching PointCloud Data
+2025-02-28 21:41:49,121 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:41:49,121 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:41:49,122 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:41:49,122 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:41:49,122 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:41:49,229 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:41:49,229 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:41:49,229 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:41:49,233 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:41:49,233 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:41:49,233 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:41:49,238 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:41:49,238 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:41:49,239 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:41:49,239 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:41:49,239 - INFO - Fetching Encoder Data
+2025-02-28 21:41:49,239 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:41:49,239 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:41:49,239 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:41:49,239 - INFO - Fetching Lidar Data
+2025-02-28 21:41:49,239 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:41:49,239 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:41:49,239 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:41:49,239 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:41:49,239 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:41:49,239 - INFO - Fetching IMU Data
+2025-02-28 21:41:49,239 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:41:49,239 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:41:49,239 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:41:49,239 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:41:49,239 - INFO - Fetching PointCloud Data
+2025-02-28 21:42:00,190 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:42:00,190 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:42:00,191 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:42:00,191 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:42:00,191 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:42:00,297 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:42:00,297 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:42:00,297 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:42:00,300 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:42:00,300 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:42:00,300 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:42:00,305 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:42:00,305 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:42:00,306 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:42:00,306 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:42:00,306 - INFO - Fetching Encoder Data
+2025-02-28 21:42:00,306 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:42:00,306 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:42:00,306 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:42:00,306 - INFO - Fetching Lidar Data
+2025-02-28 21:42:00,306 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:42:00,306 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:42:00,306 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:42:00,306 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:42:00,306 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:42:00,306 - INFO - Fetching IMU Data
+2025-02-28 21:42:00,306 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:42:00,306 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:42:00,306 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:42:00,306 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:42:00,306 - INFO - Fetching PointCloud Data
+2025-02-28 21:47:17,863 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:47:17,863 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:47:17,864 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:47:17,864 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:47:17,864 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:47:17,975 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:47:17,975 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:47:17,975 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:47:17,979 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:47:17,979 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:47:17,979 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:47:17,983 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:47:17,984 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:47:17,984 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:47:17,984 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:47:17,984 - INFO - Fetching Encoder Data
+2025-02-28 21:47:17,985 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:47:17,985 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:47:17,985 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:47:17,985 - INFO - Fetching Lidar Data
+2025-02-28 21:47:17,985 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:47:17,985 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:47:17,985 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:47:17,985 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:47:17,985 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:47:17,985 - INFO - Fetching IMU Data
+2025-02-28 21:47:17,985 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:47:17,985 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:47:17,985 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:47:17,985 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:47:17,985 - INFO - Fetching PointCloud Data
+2025-02-28 21:49:37,655 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:49:37,655 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:49:37,656 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:49:37,656 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:49:37,656 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:49:37,766 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:49:37,766 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:49:37,766 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:49:37,769 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:49:37,769 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:49:37,769 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:37,774 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:37,774 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:49:37,775 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:49:37,775 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:49:37,775 - INFO - Fetching Encoder Data
+2025-02-28 21:49:37,775 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:49:37,775 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:49:37,775 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:49:37,775 - INFO - Fetching Lidar Data
+2025-02-28 21:49:37,775 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:49:37,775 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:49:37,775 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:49:37,775 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:49:37,775 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:49:37,775 - INFO - Fetching IMU Data
+2025-02-28 21:49:37,775 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:49:37,775 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:49:37,775 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:49:37,775 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:49:37,775 - INFO - Fetching PointCloud Data
+2025-02-28 21:49:41,116 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:49:41,116 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:49:41,117 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:49:41,117 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:49:41,117 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:49:41,228 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:49:41,228 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:49:41,228 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:49:41,231 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:49:41,231 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:49:41,231 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:41,236 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:41,236 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:49:41,237 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:49:41,237 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:49:41,237 - INFO - Fetching Encoder Data
+2025-02-28 21:49:41,237 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:49:41,237 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:49:41,237 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:49:41,237 - INFO - Fetching Lidar Data
+2025-02-28 21:49:41,237 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:49:41,237 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:49:41,237 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:49:41,237 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:49:41,237 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:49:41,237 - INFO - Fetching IMU Data
+2025-02-28 21:49:41,237 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:49:41,237 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:49:41,237 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:49:41,237 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:49:41,237 - INFO - Fetching PointCloud Data
+2025-02-28 21:49:48,618 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:49:48,618 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:49:48,619 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:49:48,619 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:49:48,619 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:49:48,730 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:49:48,730 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:49:48,730 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:49:48,733 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:49:48,733 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:49:48,733 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:48,738 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:48,738 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:49:48,739 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:49:48,739 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:49:48,739 - INFO - Fetching Encoder Data
+2025-02-28 21:49:48,739 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:49:48,739 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:49:48,739 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:49:48,739 - INFO - Fetching Lidar Data
+2025-02-28 21:49:48,740 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:49:48,740 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:49:48,740 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:49:48,740 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:49:48,740 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:49:48,740 - INFO - Fetching IMU Data
+2025-02-28 21:49:48,740 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:49:48,740 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:49:48,740 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:49:48,740 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:49:48,740 - INFO - Fetching PointCloud Data
+2025-02-28 21:49:53,300 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:49:53,300 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:49:53,301 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:49:53,302 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:49:53,302 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:49:53,412 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:49:53,413 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:49:53,413 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:49:53,417 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:49:53,417 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:49:53,417 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:53,422 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:49:53,422 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:49:53,423 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:49:53,423 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:49:53,423 - INFO - Fetching Encoder Data
+2025-02-28 21:49:53,423 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:49:53,423 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:49:53,423 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:49:53,423 - INFO - Fetching Lidar Data
+2025-02-28 21:49:53,423 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:49:53,423 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:49:53,423 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:49:53,423 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:49:53,423 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:49:53,423 - INFO - Fetching IMU Data
+2025-02-28 21:49:53,423 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:49:53,423 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:49:53,423 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:49:53,423 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:49:53,423 - INFO - Fetching PointCloud Data
+2025-02-28 21:57:24,337 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 21:57:24,337 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 21:57:24,338 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 21:57:24,338 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 21:57:24,338 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 21:57:24,451 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 21:57:24,452 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 21:57:24,452 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 21:57:24,455 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 21:57:24,455 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 21:57:24,455 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 21:57:24,460 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 21:57:24,460 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 21:57:24,461 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 21:57:24,461 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 21:57:24,461 - INFO - Fetching Encoder Data
+2025-02-28 21:57:24,461 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 21:57:24,461 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 21:57:24,461 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 21:57:24,461 - INFO - Fetching Lidar Data
+2025-02-28 21:57:24,461 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 21:57:24,461 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 21:57:24,461 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 21:57:24,461 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 21:57:24,461 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 21:57:24,461 - INFO - Fetching IMU Data
+2025-02-28 21:57:24,461 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 21:57:24,461 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 21:57:24,461 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 21:57:24,461 - INFO - Accessing point cloud data for source and target
+2025-02-28 21:57:24,461 - INFO - Fetching PointCloud Data
+2025-02-28 22:01:21,341 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:01:21,342 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:01:21,342 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:01:21,343 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:01:21,343 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:01:21,458 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:01:21,458 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:01:21,458 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:01:21,461 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:01:21,461 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:01:21,461 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:01:21,466 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:01:21,466 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:01:21,467 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:01:21,467 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:01:21,467 - INFO - Fetching Encoder Data
+2025-02-28 22:01:21,467 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:01:21,467 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:01:21,467 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:01:21,467 - INFO - Fetching Lidar Data
+2025-02-28 22:01:21,467 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:01:21,467 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:01:21,467 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:01:21,467 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:01:21,467 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:01:21,467 - INFO - Fetching IMU Data
+2025-02-28 22:01:21,467 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:01:21,467 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:01:21,467 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:01:21,467 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:01:21,467 - INFO - Fetching PointCloud Data
+2025-02-28 22:07:00,513 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:07:00,513 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:07:00,514 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:07:00,515 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:07:00,515 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:07:00,631 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:07:00,631 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:07:00,631 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:07:00,634 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:07:00,634 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:07:00,634 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:07:00,639 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:07:00,639 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:07:00,640 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:07:00,640 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:07:00,640 - INFO - Fetching Encoder Data
+2025-02-28 22:07:00,640 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:07:00,640 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:07:00,640 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:07:00,640 - INFO - Fetching Lidar Data
+2025-02-28 22:07:00,640 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:07:00,640 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:07:00,640 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:07:00,640 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:07:00,640 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:07:00,640 - INFO - Fetching IMU Data
+2025-02-28 22:07:00,641 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:07:00,641 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:07:00,641 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:07:00,641 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:07:00,641 - INFO - Fetching PointCloud Data
+2025-02-28 22:10:08,665 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:10:08,665 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:10:08,666 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:10:08,666 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:10:08,666 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:10:08,786 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:10:08,787 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:10:08,787 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:10:08,790 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:10:08,790 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:10:08,790 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:10:08,795 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:10:08,795 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:10:08,796 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:10:08,796 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:10:08,796 - INFO - Fetching Encoder Data
+2025-02-28 22:10:08,796 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:10:08,796 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:10:08,796 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:10:08,796 - INFO - Fetching Lidar Data
+2025-02-28 22:10:08,796 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:10:08,796 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:10:08,796 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:10:08,796 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:10:08,796 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:10:08,796 - INFO - Fetching IMU Data
+2025-02-28 22:10:08,796 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:10:08,796 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:10:08,796 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:10:08,797 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:10:08,797 - INFO - Fetching PointCloud Data
+2025-02-28 22:10:37,286 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:10:37,286 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:10:37,287 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:10:37,287 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:10:37,287 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:10:37,397 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:10:37,398 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:10:37,398 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:10:37,401 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:10:37,401 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:10:37,401 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:10:37,406 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:10:37,406 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:10:37,407 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:10:37,407 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:10:37,407 - INFO - Fetching Encoder Data
+2025-02-28 22:10:37,407 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:10:37,407 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:10:37,407 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:10:37,407 - INFO - Fetching Lidar Data
+2025-02-28 22:10:37,407 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:10:37,407 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:10:37,407 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:10:37,407 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:10:37,407 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:10:37,408 - INFO - Fetching IMU Data
+2025-02-28 22:10:37,408 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:10:37,408 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:10:37,408 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:10:37,408 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:10:37,408 - INFO - Fetching PointCloud Data
+2025-02-28 22:13:55,553 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:13:55,553 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:13:55,554 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:13:55,554 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:13:55,554 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:13:55,670 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:13:55,671 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:13:55,671 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:13:55,674 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:13:55,674 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:13:55,674 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:13:55,679 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:13:55,679 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:13:55,680 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:13:55,681 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:13:55,681 - INFO - Fetching Encoder Data
+2025-02-28 22:13:55,681 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:13:55,681 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:13:55,681 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:13:55,681 - INFO - Fetching Lidar Data
+2025-02-28 22:13:55,681 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:13:55,681 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:13:55,681 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:13:55,681 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:13:55,681 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:13:55,681 - INFO - Fetching IMU Data
+2025-02-28 22:13:55,681 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:13:55,681 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:13:55,681 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:13:55,681 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:13:55,681 - INFO - Fetching PointCloud Data
+2025-02-28 22:17:30,360 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:17:30,360 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:17:30,361 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:17:30,361 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:17:30,361 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:17:30,470 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:17:30,470 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:17:30,470 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:17:30,473 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:17:30,473 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:17:30,473 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:17:30,478 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:17:30,478 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:17:30,479 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:17:30,479 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:17:30,479 - INFO - Fetching Encoder Data
+2025-02-28 22:17:30,479 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:17:30,479 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:17:30,479 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:17:30,479 - INFO - Fetching Lidar Data
+2025-02-28 22:17:30,479 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:17:30,479 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:17:30,479 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:17:30,479 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:17:30,479 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:17:30,479 - INFO - Fetching IMU Data
+2025-02-28 22:17:30,479 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:17:30,479 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:17:30,480 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:17:30,480 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:17:30,480 - INFO - Fetching PointCloud Data
+2025-02-28 22:18:19,179 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:18:19,179 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:18:19,180 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:18:19,180 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:18:19,180 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:18:19,291 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:18:19,291 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:18:19,292 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:18:19,295 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:18:19,295 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:18:19,295 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:18:19,300 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:18:19,300 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:18:19,300 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:18:19,301 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:18:19,301 - INFO - Fetching Encoder Data
+2025-02-28 22:18:19,301 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:18:19,301 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:18:19,301 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:18:19,301 - INFO - Fetching Lidar Data
+2025-02-28 22:18:19,301 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:18:19,301 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:18:19,301 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:18:19,301 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:18:19,301 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:18:19,301 - INFO - Fetching IMU Data
+2025-02-28 22:18:19,301 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:18:19,301 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:18:19,301 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:18:19,301 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:18:19,301 - INFO - Fetching PointCloud Data
+2025-02-28 22:18:27,782 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:18:27,782 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:18:27,783 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:18:27,783 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:18:27,783 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:18:27,893 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:18:27,893 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:18:27,893 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:18:27,896 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:18:27,896 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:18:27,896 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:18:27,901 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:18:27,901 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:18:27,902 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:18:27,902 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:18:27,902 - INFO - Fetching Encoder Data
+2025-02-28 22:18:27,902 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:18:27,902 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:18:27,902 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:18:27,902 - INFO - Fetching Lidar Data
+2025-02-28 22:18:27,902 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:18:27,902 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:18:27,902 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:18:27,902 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:18:27,902 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:18:27,902 - INFO - Fetching IMU Data
+2025-02-28 22:18:27,902 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:18:27,902 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:18:27,902 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:18:27,902 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:18:27,902 - INFO - Fetching PointCloud Data
+2025-02-28 22:19:10,223 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:19:10,223 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:19:10,224 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:19:10,224 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:19:10,224 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:19:10,336 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:19:10,336 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:19:10,336 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:19:10,339 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:19:10,339 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:19:10,339 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:19:10,344 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:19:10,344 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:19:10,345 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:19:10,345 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:19:10,346 - INFO - Fetching Encoder Data
+2025-02-28 22:19:10,346 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:19:10,346 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:19:10,346 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:19:10,346 - INFO - Fetching Lidar Data
+2025-02-28 22:19:10,346 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:19:10,346 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:19:10,346 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:19:10,346 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:19:10,346 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:19:10,346 - INFO - Fetching IMU Data
+2025-02-28 22:19:10,346 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:19:10,346 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:19:10,346 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:19:10,346 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:19:10,346 - INFO - Fetching PointCloud Data
+2025-02-28 22:20:11,646 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:20:11,646 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:20:11,648 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:20:11,648 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:20:11,648 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:20:11,759 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:20:11,759 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:20:11,759 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:20:11,763 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:20:11,763 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:20:11,763 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:20:11,768 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:20:11,768 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:20:11,768 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:20:11,769 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:20:11,769 - INFO - Fetching Encoder Data
+2025-02-28 22:20:11,769 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:20:11,769 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:20:11,769 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:20:11,769 - INFO - Fetching Lidar Data
+2025-02-28 22:20:11,769 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:20:11,769 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:20:11,769 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:20:11,769 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:20:11,769 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:20:11,769 - INFO - Fetching IMU Data
+2025-02-28 22:20:11,769 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:20:11,769 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:20:11,769 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:20:11,769 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:20:11,769 - INFO - Fetching PointCloud Data
+2025-02-28 22:20:34,867 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-02-28 22:20:34,867 - INFO - Attempting to load encoder data for dataset 21.
+2025-02-28 22:20:34,868 - INFO - Successfully loaded encoder data for dataset 21.
+2025-02-28 22:20:34,868 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-02-28 22:20:34,868 - INFO - Attempting to load Lidar data for dataset 21.
+2025-02-28 22:20:34,977 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-02-28 22:20:34,977 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-02-28 22:20:34,977 - INFO - Attempting to load IMU data for dataset 21.
+2025-02-28 22:20:34,980 - INFO - Successfully loaded IMU data for dataset 21.
+2025-02-28 22:20:34,980 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:20:34,980 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:20:34,985 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:20:34,985 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:20:34,986 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:20:34,986 - INFO - Accessing encoder data for dataset 21.
+2025-02-28 22:20:34,986 - INFO - Fetching Encoder Data
+2025-02-28 22:20:34,986 - INFO - Encoder Counts Shape: (4, 4789)
+2025-02-28 22:20:34,986 - INFO - Encoder Stamps Shape: (4789,)
+2025-02-28 22:20:34,986 - INFO - Accessing Lidar data for dataset 21.
+2025-02-28 22:20:34,986 - INFO - Fetching Lidar Data
+2025-02-28 22:20:34,986 - INFO - Lidar Range Shape: (1081, 4785)
+2025-02-28 22:20:34,986 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:20:34,986 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:20:34,986 - INFO - Lidar Time Stamps: (4785,)
+2025-02-28 22:20:34,986 - INFO - Accessing IMU data for dataset 21.
+2025-02-28 22:20:34,986 - INFO - Fetching IMU Data
+2025-02-28 22:20:34,986 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-02-28 22:20:34,986 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-02-28 22:20:34,986 - INFO - IMU Stamps Shape: (11730,)
+2025-02-28 22:20:34,987 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:20:34,987 - INFO - Fetching PointCloud Data
+2025-02-28 22:21:24,897 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:21:24,898 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:21:24,899 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:21:24,899 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:21:24,899 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:21:25,010 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:21:25,010 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:21:25,010 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:21:25,013 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:21:25,014 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:21:25,014 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:21:25,019 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:21:25,019 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:21:25,019 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:21:25,019 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:21:25,019 - INFO - Fetching Encoder Data
+2025-02-28 22:21:25,019 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:21:25,019 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:21:25,020 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:21:25,020 - INFO - Fetching Lidar Data
+2025-02-28 22:21:25,020 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:21:25,020 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:21:25,020 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:21:25,020 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:21:25,020 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:21:25,020 - INFO - Fetching IMU Data
+2025-02-28 22:21:25,020 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:21:25,020 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:21:25,020 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:21:25,020 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:21:25,020 - INFO - Fetching PointCloud Data
+2025-02-28 22:22:34,662 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:22:34,662 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:22:34,663 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:22:34,663 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:22:34,663 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:22:34,776 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:22:34,776 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:22:34,777 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:22:34,780 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:22:34,780 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:22:34,780 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:22:34,785 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:22:34,785 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:22:34,786 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:22:34,786 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:22:34,786 - INFO - Fetching Encoder Data
+2025-02-28 22:22:34,786 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:22:34,786 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:22:34,786 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:22:34,786 - INFO - Fetching Lidar Data
+2025-02-28 22:22:34,786 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:22:34,786 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:22:34,786 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:22:34,786 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:22:34,786 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:22:34,786 - INFO - Fetching IMU Data
+2025-02-28 22:22:34,786 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:22:34,786 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:22:34,786 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:22:34,786 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:22:34,787 - INFO - Fetching PointCloud Data
+2025-02-28 22:25:52,987 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:25:52,987 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:25:52,988 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:25:52,989 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:25:52,989 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:25:53,106 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:25:53,106 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:25:53,106 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:25:53,110 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:25:53,110 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:25:53,110 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:25:53,115 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:25:53,115 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:25:53,116 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:25:53,116 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:25:53,116 - INFO - Fetching Encoder Data
+2025-02-28 22:25:53,116 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:25:53,116 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:25:53,116 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:25:53,116 - INFO - Fetching Lidar Data
+2025-02-28 22:25:53,116 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:25:53,116 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:25:53,116 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:25:53,116 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:25:53,116 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:25:53,116 - INFO - Fetching IMU Data
+2025-02-28 22:25:53,116 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:25:53,116 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:25:53,116 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:25:53,116 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:25:53,116 - INFO - Fetching PointCloud Data
+2025-02-28 22:26:56,810 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:26:56,810 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:26:56,811 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:26:56,811 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:26:56,811 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:26:56,925 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:26:56,925 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:26:56,925 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:26:56,928 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:26:56,928 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:26:56,928 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:26:56,933 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:26:56,933 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:26:56,934 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:26:56,934 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:26:56,934 - INFO - Fetching Encoder Data
+2025-02-28 22:26:56,934 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:26:56,934 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:26:56,934 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:26:56,934 - INFO - Fetching Lidar Data
+2025-02-28 22:26:56,934 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:26:56,934 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:26:56,934 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:26:56,934 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:26:56,934 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:26:56,934 - INFO - Fetching IMU Data
+2025-02-28 22:26:56,934 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:26:56,934 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:26:56,934 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:26:56,934 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:26:56,934 - INFO - Fetching PointCloud Data
+2025-02-28 22:27:03,023 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:27:03,023 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:27:03,024 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:27:03,024 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:27:03,024 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:27:03,138 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:27:03,138 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:27:03,138 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:27:03,142 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:27:03,142 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:27:03,142 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:03,147 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:03,147 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:27:03,148 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:27:03,148 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:27:03,148 - INFO - Fetching Encoder Data
+2025-02-28 22:27:03,148 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:27:03,148 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:27:03,148 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:27:03,148 - INFO - Fetching Lidar Data
+2025-02-28 22:27:03,148 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:27:03,148 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:27:03,148 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:27:03,148 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:27:03,148 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:27:03,148 - INFO - Fetching IMU Data
+2025-02-28 22:27:03,148 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:27:03,148 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:27:03,148 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:27:03,148 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:27:03,148 - INFO - Fetching PointCloud Data
+2025-02-28 22:27:10,346 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:27:10,346 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:27:10,347 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:27:10,347 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:27:10,347 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:27:10,460 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:27:10,460 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:27:10,460 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:27:10,463 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:27:10,464 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:27:10,464 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:10,469 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:10,469 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:27:10,470 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:27:10,470 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:27:10,470 - INFO - Fetching Encoder Data
+2025-02-28 22:27:10,470 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:27:10,470 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:27:10,470 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:27:10,470 - INFO - Fetching Lidar Data
+2025-02-28 22:27:10,470 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:27:10,470 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:27:10,470 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:27:10,470 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:27:10,470 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:27:10,470 - INFO - Fetching IMU Data
+2025-02-28 22:27:10,470 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:27:10,470 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:27:10,470 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:27:10,470 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:27:10,470 - INFO - Fetching PointCloud Data
+2025-02-28 22:27:35,842 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:27:35,842 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:27:35,843 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:27:35,843 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:27:35,843 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:27:35,957 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:27:35,957 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:27:35,957 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:27:35,960 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:27:35,961 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:27:35,961 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:35,965 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:27:35,966 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:27:35,967 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:27:35,967 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:27:35,967 - INFO - Fetching Encoder Data
+2025-02-28 22:27:35,967 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:27:35,967 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:27:35,967 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:27:35,967 - INFO - Fetching Lidar Data
+2025-02-28 22:27:35,967 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:27:35,967 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:27:35,967 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:27:35,967 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:27:35,967 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:27:35,967 - INFO - Fetching IMU Data
+2025-02-28 22:27:35,967 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:27:35,967 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:27:35,967 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:27:35,967 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:27:35,967 - INFO - Fetching PointCloud Data
+2025-02-28 22:28:00,602 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:28:00,602 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:28:00,603 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:28:00,603 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:28:00,603 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:28:00,717 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:28:00,717 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:28:00,717 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:28:00,720 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:28:00,720 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:28:00,720 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:28:00,725 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:28:00,725 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:28:00,726 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:28:00,726 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:28:00,726 - INFO - Fetching Encoder Data
+2025-02-28 22:28:00,726 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:28:00,726 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:28:00,726 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:28:00,726 - INFO - Fetching Lidar Data
+2025-02-28 22:28:00,726 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:28:00,726 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:28:00,726 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:28:00,726 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:28:00,726 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:28:00,726 - INFO - Fetching IMU Data
+2025-02-28 22:28:00,726 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:28:00,726 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:28:00,726 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:28:00,726 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:28:00,726 - INFO - Fetching PointCloud Data
+2025-02-28 22:28:17,708 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:28:17,708 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:28:17,709 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:28:17,709 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:28:17,709 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:28:17,824 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:28:17,824 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:28:17,824 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:28:17,827 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:28:17,827 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:28:17,827 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:28:17,832 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:28:17,832 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:28:17,833 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:28:17,833 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:28:17,834 - INFO - Fetching Encoder Data
+2025-02-28 22:28:17,834 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:28:17,834 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:28:17,834 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:28:17,834 - INFO - Fetching Lidar Data
+2025-02-28 22:28:17,834 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:28:17,834 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:28:17,834 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:28:17,834 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:28:17,834 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:28:17,834 - INFO - Fetching IMU Data
+2025-02-28 22:28:17,834 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:28:17,834 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:28:17,834 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:28:17,834 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:28:17,834 - INFO - Fetching PointCloud Data
+2025-02-28 22:31:49,657 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:31:49,657 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:31:49,658 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:31:49,658 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:31:49,658 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:31:49,771 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:31:49,771 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:31:49,772 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:31:49,775 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:31:49,775 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:31:49,775 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:31:49,780 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:31:49,780 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:31:49,781 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:31:49,781 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:31:49,781 - INFO - Fetching Encoder Data
+2025-02-28 22:31:49,781 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:31:49,781 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:31:49,781 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:31:49,781 - INFO - Fetching Lidar Data
+2025-02-28 22:31:49,781 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:31:49,781 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:31:49,781 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:31:49,781 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:31:49,781 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:31:49,781 - INFO - Fetching IMU Data
+2025-02-28 22:31:49,781 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:31:49,781 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:31:49,781 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:31:49,781 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:31:49,781 - INFO - Fetching PointCloud Data
+2025-02-28 22:34:54,819 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:34:54,819 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:34:54,820 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:34:54,820 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:34:54,820 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:34:54,935 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:34:54,935 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:34:54,935 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:34:54,939 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:34:54,939 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:34:54,939 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:34:54,944 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:34:54,944 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:34:54,945 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:34:54,945 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:34:54,945 - INFO - Fetching Encoder Data
+2025-02-28 22:34:54,945 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:34:54,945 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:34:54,945 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:34:54,945 - INFO - Fetching Lidar Data
+2025-02-28 22:34:54,945 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:34:54,945 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:34:54,945 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:34:54,945 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:34:54,945 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:34:54,945 - INFO - Fetching IMU Data
+2025-02-28 22:34:54,945 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:34:54,945 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:34:54,945 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:34:54,945 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:34:54,945 - INFO - Fetching PointCloud Data
+2025-02-28 22:35:13,709 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:35:13,709 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:35:13,710 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:35:13,710 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:35:13,710 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:35:13,830 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:35:13,830 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:35:13,830 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:35:13,833 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:35:13,833 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:35:13,833 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:35:13,839 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:35:13,839 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:35:13,840 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:35:13,840 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:35:13,840 - INFO - Fetching Encoder Data
+2025-02-28 22:35:13,840 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:35:13,840 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:35:13,840 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:35:13,840 - INFO - Fetching Lidar Data
+2025-02-28 22:35:13,840 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:35:13,840 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:35:13,840 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:35:13,840 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:35:13,840 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:35:13,840 - INFO - Fetching IMU Data
+2025-02-28 22:35:13,840 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:35:13,840 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:35:13,840 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:35:13,840 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:35:13,840 - INFO - Fetching PointCloud Data
+2025-02-28 22:38:46,634 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:38:46,634 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:38:46,635 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:38:46,636 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:38:46,636 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:38:46,754 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:38:46,754 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:38:46,754 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:38:46,758 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:38:46,758 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:38:46,758 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:38:46,763 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:38:46,763 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:38:46,764 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:38:46,764 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:38:46,764 - INFO - Fetching Encoder Data
+2025-02-28 22:38:46,764 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:38:46,764 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:38:46,764 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:38:46,764 - INFO - Fetching Lidar Data
+2025-02-28 22:38:46,764 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:38:46,764 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:38:46,764 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:38:46,764 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:38:46,764 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:38:46,764 - INFO - Fetching IMU Data
+2025-02-28 22:38:46,764 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:38:46,764 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:38:46,764 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:38:46,764 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:38:46,764 - INFO - Fetching PointCloud Data
+2025-02-28 22:42:58,857 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:42:58,857 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:42:58,858 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:42:58,858 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:42:58,858 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:42:58,971 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:42:58,971 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:42:58,971 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:42:58,974 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:42:58,974 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:42:58,974 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:42:58,979 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:42:58,979 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:42:58,980 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:42:58,980 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:42:58,980 - INFO - Fetching Encoder Data
+2025-02-28 22:42:58,980 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:42:58,980 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:42:58,980 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:42:58,980 - INFO - Fetching Lidar Data
+2025-02-28 22:42:58,980 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:42:58,980 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:42:58,980 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:42:58,980 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:42:58,980 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:42:58,980 - INFO - Fetching IMU Data
+2025-02-28 22:42:58,980 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:42:58,980 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:42:58,980 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:42:58,980 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:42:58,980 - INFO - Fetching PointCloud Data
+2025-02-28 22:48:37,877 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:48:37,877 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:48:37,878 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:48:37,878 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:48:37,878 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:48:37,992 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:48:37,992 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:48:37,992 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:48:37,995 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:48:37,995 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:48:37,995 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:48:38,000 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:48:38,000 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:48:38,001 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:48:38,001 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:48:38,001 - INFO - Fetching Encoder Data
+2025-02-28 22:48:38,001 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:48:38,001 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:48:38,001 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:48:38,001 - INFO - Fetching Lidar Data
+2025-02-28 22:48:38,002 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:48:38,002 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:48:38,002 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:48:38,002 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:48:38,002 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:48:38,002 - INFO - Fetching IMU Data
+2025-02-28 22:48:38,002 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:48:38,002 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:48:38,002 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:48:38,002 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:48:38,002 - INFO - Fetching PointCloud Data
+2025-02-28 22:51:36,480 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:51:36,480 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:51:36,481 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:51:36,482 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:51:36,482 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:51:36,594 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:51:36,594 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:51:36,594 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:51:36,598 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:51:36,598 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:51:36,598 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:51:36,603 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:51:36,603 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:51:36,604 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:51:36,604 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:51:36,604 - INFO - Fetching Encoder Data
+2025-02-28 22:51:36,604 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:51:36,604 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:51:36,604 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:51:36,604 - INFO - Fetching Lidar Data
+2025-02-28 22:51:36,604 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:51:36,604 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:51:36,604 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:51:36,604 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:51:36,604 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:51:36,604 - INFO - Fetching IMU Data
+2025-02-28 22:51:36,604 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:51:36,604 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:51:36,604 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:51:36,604 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:51:36,604 - INFO - Fetching PointCloud Data
+2025-02-28 22:56:33,902 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:56:33,902 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:56:33,903 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:56:33,903 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:56:33,903 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:56:34,020 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:56:34,021 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:56:34,021 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:56:34,024 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:56:34,024 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:56:34,024 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:56:34,029 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:56:34,029 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:56:34,030 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:56:34,030 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:56:34,030 - INFO - Fetching Encoder Data
+2025-02-28 22:56:34,030 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:56:34,030 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:56:34,030 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:56:34,030 - INFO - Fetching Lidar Data
+2025-02-28 22:56:34,030 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:56:34,030 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:56:34,030 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:56:34,030 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:56:34,030 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:56:34,030 - INFO - Fetching IMU Data
+2025-02-28 22:56:34,030 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:56:34,030 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:56:34,030 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:56:34,030 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:56:34,030 - INFO - Fetching PointCloud Data
+2025-02-28 22:59:22,711 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:59:22,711 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:59:22,713 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:59:22,713 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:59:22,713 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:59:22,831 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:59:22,831 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:59:22,831 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:59:22,835 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:59:22,835 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:59:22,835 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:59:22,840 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:59:22,840 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:59:22,841 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:59:22,841 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:59:22,841 - INFO - Fetching Encoder Data
+2025-02-28 22:59:22,841 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:59:22,841 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:59:22,841 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:59:22,841 - INFO - Fetching Lidar Data
+2025-02-28 22:59:22,841 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:59:22,841 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:59:22,841 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:59:22,841 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:59:22,841 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:59:22,841 - INFO - Fetching IMU Data
+2025-02-28 22:59:22,841 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:59:22,841 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:59:22,841 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:59:22,841 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:59:22,841 - INFO - Fetching PointCloud Data
+2025-02-28 22:59:29,256 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 22:59:29,256 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 22:59:29,257 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 22:59:29,257 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 22:59:29,257 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 22:59:29,372 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 22:59:29,372 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 22:59:29,372 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 22:59:29,375 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 22:59:29,375 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 22:59:29,375 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 22:59:29,380 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 22:59:29,380 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 22:59:29,381 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 22:59:29,381 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 22:59:29,381 - INFO - Fetching Encoder Data
+2025-02-28 22:59:29,381 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 22:59:29,381 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 22:59:29,381 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 22:59:29,381 - INFO - Fetching Lidar Data
+2025-02-28 22:59:29,381 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 22:59:29,381 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 22:59:29,381 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 22:59:29,381 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 22:59:29,381 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 22:59:29,381 - INFO - Fetching IMU Data
+2025-02-28 22:59:29,381 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 22:59:29,381 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 22:59:29,382 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 22:59:29,382 - INFO - Accessing point cloud data for source and target
+2025-02-28 22:59:29,382 - INFO - Fetching PointCloud Data
+2025-02-28 23:02:38,270 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:02:38,270 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:02:38,271 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:02:38,271 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:02:38,271 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:02:38,386 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:02:38,386 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:02:38,386 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:02:38,390 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:02:38,390 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:02:38,390 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:02:38,395 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:02:38,395 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:02:38,396 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:02:38,396 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:02:38,396 - INFO - Fetching Encoder Data
+2025-02-28 23:02:38,396 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:02:38,396 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:02:38,396 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:02:38,396 - INFO - Fetching Lidar Data
+2025-02-28 23:02:38,396 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:02:38,396 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:02:38,396 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:02:38,396 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:02:38,396 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:02:38,396 - INFO - Fetching IMU Data
+2025-02-28 23:02:38,396 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:02:38,396 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:02:38,396 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:02:38,396 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:02:38,396 - INFO - Fetching PointCloud Data
+2025-02-28 23:03:08,768 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:03:08,768 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:03:08,769 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:03:08,769 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:03:08,769 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:03:08,888 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:03:08,888 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:03:08,888 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:03:08,891 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:03:08,891 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:03:08,891 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:03:08,896 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:03:08,896 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:03:08,897 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:03:08,897 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:03:08,897 - INFO - Fetching Encoder Data
+2025-02-28 23:03:08,897 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:03:08,897 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:03:08,897 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:03:08,898 - INFO - Fetching Lidar Data
+2025-02-28 23:03:08,898 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:03:08,898 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:03:08,898 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:03:08,898 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:03:08,898 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:03:08,898 - INFO - Fetching IMU Data
+2025-02-28 23:03:08,898 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:03:08,898 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:03:08,898 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:03:08,898 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:03:08,898 - INFO - Fetching PointCloud Data
+2025-02-28 23:03:14,168 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:03:14,169 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:03:14,170 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:03:14,170 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:03:14,170 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:03:14,295 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:03:14,295 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:03:14,295 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:03:14,299 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:03:14,299 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:03:14,299 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:03:14,304 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:03:14,304 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:03:14,305 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:03:14,305 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:03:14,305 - INFO - Fetching Encoder Data
+2025-02-28 23:03:14,305 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:03:14,305 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:03:14,305 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:03:14,305 - INFO - Fetching Lidar Data
+2025-02-28 23:03:14,305 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:03:14,305 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:03:14,305 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:03:14,305 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:03:14,305 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:03:14,305 - INFO - Fetching IMU Data
+2025-02-28 23:03:14,305 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:03:14,305 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:03:14,305 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:03:14,306 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:03:14,306 - INFO - Fetching PointCloud Data
+2025-02-28 23:08:10,400 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:08:10,400 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:08:10,401 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:08:10,401 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:08:10,401 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:08:10,512 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:08:10,512 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:08:10,512 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:08:10,515 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:08:10,515 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:08:10,515 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:10,520 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:10,520 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:08:10,521 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:08:10,521 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:08:10,521 - INFO - Fetching Encoder Data
+2025-02-28 23:08:10,521 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:08:10,521 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:08:10,521 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:08:10,521 - INFO - Fetching Lidar Data
+2025-02-28 23:08:10,521 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:08:10,521 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:08:10,521 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:08:10,521 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:08:10,521 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:08:10,521 - INFO - Fetching IMU Data
+2025-02-28 23:08:10,521 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:08:10,521 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:08:10,521 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:08:10,521 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:08:10,521 - INFO - Fetching PointCloud Data
+2025-02-28 23:08:35,959 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:08:35,959 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:08:35,960 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:08:35,960 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:08:35,960 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:08:36,073 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:08:36,073 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:08:36,073 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:08:36,076 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:08:36,076 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:08:36,076 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:36,081 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:36,081 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:08:36,082 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:08:36,083 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:08:36,083 - INFO - Fetching Encoder Data
+2025-02-28 23:08:36,083 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:08:36,083 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:08:36,083 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:08:36,083 - INFO - Fetching Lidar Data
+2025-02-28 23:08:36,083 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:08:36,083 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:08:36,083 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:08:36,083 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:08:36,083 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:08:36,083 - INFO - Fetching IMU Data
+2025-02-28 23:08:36,083 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:08:36,083 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:08:36,083 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:08:36,083 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:08:36,083 - INFO - Fetching PointCloud Data
+2025-02-28 23:08:46,957 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:08:46,957 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:08:46,958 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:08:46,958 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:08:46,958 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:08:47,072 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:08:47,072 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:08:47,072 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:08:47,075 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:08:47,075 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:08:47,075 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:47,080 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:08:47,080 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:08:47,081 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:08:47,081 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:08:47,081 - INFO - Fetching Encoder Data
+2025-02-28 23:08:47,081 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:08:47,081 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:08:47,081 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:08:47,081 - INFO - Fetching Lidar Data
+2025-02-28 23:08:47,081 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:08:47,081 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:08:47,081 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:08:47,081 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:08:47,082 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:08:47,082 - INFO - Fetching IMU Data
+2025-02-28 23:08:47,082 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:08:47,082 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:08:47,082 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:08:47,082 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:08:47,082 - INFO - Fetching PointCloud Data
+2025-02-28 23:12:09,283 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:12:09,283 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:12:09,285 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:12:09,285 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:12:09,285 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:12:09,403 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:12:09,403 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:12:09,403 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:12:09,406 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:12:09,406 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:12:09,406 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:12:09,412 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:12:09,412 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:12:09,413 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:12:09,413 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:12:09,413 - INFO - Fetching Encoder Data
+2025-02-28 23:12:09,413 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:12:09,413 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:12:09,413 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:12:09,413 - INFO - Fetching Lidar Data
+2025-02-28 23:12:09,413 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:12:09,413 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:12:09,413 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:12:09,413 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:12:09,413 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:12:09,413 - INFO - Fetching IMU Data
+2025-02-28 23:12:09,413 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:12:09,413 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:12:09,413 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:12:09,413 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:12:09,413 - INFO - Fetching PointCloud Data
+2025-02-28 23:15:57,468 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:15:57,468 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:15:57,469 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:15:57,469 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:15:57,470 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:15:57,584 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:15:57,584 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:15:57,584 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:15:57,587 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:15:57,587 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:15:57,587 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:15:57,593 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:15:57,593 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:15:57,594 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:15:57,594 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:15:57,594 - INFO - Fetching Encoder Data
+2025-02-28 23:15:57,594 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:15:57,594 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:15:57,594 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:15:57,594 - INFO - Fetching Lidar Data
+2025-02-28 23:15:57,594 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:15:57,594 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:15:57,594 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:15:57,594 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:15:57,594 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:15:57,594 - INFO - Fetching IMU Data
+2025-02-28 23:15:57,594 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:15:57,594 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:15:57,594 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:15:57,594 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:15:57,594 - INFO - Fetching PointCloud Data
+2025-02-28 23:19:12,967 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:19:12,967 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:19:12,968 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:19:12,968 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:19:12,968 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:19:13,092 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:19:13,092 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:19:13,092 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:19:13,097 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:19:13,097 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:19:13,097 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:19:13,102 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:19:13,102 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:19:13,104 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:19:13,104 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:19:13,104 - INFO - Fetching Encoder Data
+2025-02-28 23:19:13,104 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:19:13,104 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:19:13,104 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:19:13,104 - INFO - Fetching Lidar Data
+2025-02-28 23:19:13,104 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:19:13,104 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:19:13,104 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:19:13,104 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:19:13,104 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:19:13,104 - INFO - Fetching IMU Data
+2025-02-28 23:19:13,104 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:19:13,104 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:19:13,104 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:19:13,104 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:19:13,104 - INFO - Fetching PointCloud Data
+2025-02-28 23:20:18,581 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:20:18,581 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:20:18,582 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:20:18,582 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:20:18,582 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:20:18,710 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:20:18,710 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:20:18,710 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:20:18,714 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:20:18,714 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:20:18,714 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:20:18,719 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:20:18,719 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:20:18,720 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:20:18,720 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:20:18,720 - INFO - Fetching Encoder Data
+2025-02-28 23:20:18,720 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:20:18,721 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:20:18,721 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:20:18,721 - INFO - Fetching Lidar Data
+2025-02-28 23:20:18,721 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:20:18,721 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:20:18,721 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:20:18,721 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:20:18,721 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:20:18,721 - INFO - Fetching IMU Data
+2025-02-28 23:20:18,721 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:20:18,721 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:20:18,721 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:20:18,721 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:20:18,721 - INFO - Fetching PointCloud Data
+2025-02-28 23:20:57,892 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:20:57,892 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:20:57,893 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:20:57,893 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:20:57,893 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:20:58,011 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:20:58,012 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:20:58,012 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:20:58,015 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:20:58,015 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:20:58,015 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:20:58,020 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:20:58,020 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:20:58,021 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:20:58,021 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:20:58,021 - INFO - Fetching Encoder Data
+2025-02-28 23:20:58,021 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:20:58,021 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:20:58,021 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:20:58,021 - INFO - Fetching Lidar Data
+2025-02-28 23:20:58,021 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:20:58,021 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:20:58,021 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:20:58,021 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:20:58,021 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:20:58,021 - INFO - Fetching IMU Data
+2025-02-28 23:20:58,021 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:20:58,021 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:20:58,021 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:20:58,021 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:20:58,021 - INFO - Fetching PointCloud Data
+2025-02-28 23:24:45,396 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:24:45,396 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:24:45,397 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:24:45,397 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:24:45,397 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:24:45,514 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:24:45,514 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:24:45,514 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:24:45,517 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:24:45,517 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:24:45,517 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:24:45,522 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:24:45,522 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:24:45,523 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:24:45,523 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:24:45,524 - INFO - Fetching Encoder Data
+2025-02-28 23:24:45,524 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:24:45,524 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:24:45,524 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:24:45,524 - INFO - Fetching Lidar Data
+2025-02-28 23:24:45,524 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:24:45,524 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:24:45,524 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:24:45,524 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:24:45,524 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:24:45,524 - INFO - Fetching IMU Data
+2025-02-28 23:24:45,524 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:24:45,524 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:24:45,524 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:24:45,524 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:24:45,524 - INFO - Fetching PointCloud Data
+2025-02-28 23:26:16,306 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:26:16,306 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:26:16,308 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:26:16,308 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:26:16,308 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:26:16,444 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:26:16,444 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:26:16,444 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:26:16,447 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:26:16,447 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:26:16,447 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:26:16,452 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:26:16,452 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:26:16,453 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:26:16,453 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:26:16,453 - INFO - Fetching Encoder Data
+2025-02-28 23:26:16,453 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:26:16,453 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:26:16,453 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:26:16,453 - INFO - Fetching Lidar Data
+2025-02-28 23:26:16,453 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:26:16,453 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:26:16,453 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:26:16,453 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:26:16,453 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:26:16,453 - INFO - Fetching IMU Data
+2025-02-28 23:26:16,453 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:26:16,453 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:26:16,453 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:26:16,453 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:26:16,453 - INFO - Fetching PointCloud Data
+2025-02-28 23:29:14,620 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:29:14,620 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:29:14,621 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:29:14,621 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:29:14,621 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:29:14,735 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:29:14,735 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:29:14,735 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:29:14,738 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:29:14,738 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:29:14,738 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:29:14,744 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:29:14,744 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:29:14,745 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:29:14,745 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:29:14,745 - INFO - Fetching Encoder Data
+2025-02-28 23:29:14,745 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:29:14,745 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:29:14,745 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:29:14,745 - INFO - Fetching Lidar Data
+2025-02-28 23:29:14,745 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:29:14,745 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:29:14,745 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:29:14,745 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:29:14,745 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:29:14,745 - INFO - Fetching IMU Data
+2025-02-28 23:29:14,745 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:29:14,745 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:29:14,745 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:29:14,745 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:29:14,745 - INFO - Fetching PointCloud Data
+2025-02-28 23:30:01,921 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:30:01,921 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:30:01,922 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:30:01,922 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:30:01,922 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:30:02,039 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:30:02,040 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:30:02,040 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:30:02,043 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:30:02,043 - INFO - Initializing PointCloud with model 'liq_container' and pointcloud number 4
+2025-02-28 23:30:02,043 - INFO - Attempting to load canonical point cloud data for model 'liq_container'.
+2025-02-28 23:30:02,048 - INFO - Successfully loaded canonical point cloud data for model 'liq_container'.
+2025-02-28 23:30:02,048 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:30:02,049 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:30:02,049 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:30:02,049 - INFO - Fetching Encoder Data
+2025-02-28 23:30:02,049 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:30:02,049 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:30:02,049 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:30:02,049 - INFO - Fetching Lidar Data
+2025-02-28 23:30:02,049 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:30:02,049 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:30:02,049 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:30:02,049 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:30:02,049 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:30:02,049 - INFO - Fetching IMU Data
+2025-02-28 23:30:02,049 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:30:02,049 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:30:02,049 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:30:02,049 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:30:02,049 - INFO - Fetching PointCloud Data
+2025-02-28 23:35:32,819 - INFO - Initializing Encoder with dataset 20 from path ../data/Encoder20.npz
+2025-02-28 23:35:32,819 - INFO - Attempting to load encoder data for dataset 20.
+2025-02-28 23:35:32,821 - INFO - Successfully loaded encoder data for dataset 20.
+2025-02-28 23:35:32,821 - INFO - Initializing Lidar with dataset 20 from path ../data/Hokuyo20
+2025-02-28 23:35:32,821 - INFO - Attempting to load Lidar data for dataset 20.
+2025-02-28 23:35:32,942 - INFO - Successfully loaded Lidar data for dataset 20.
+2025-02-28 23:35:32,942 - INFO - Initializing IMU with dataset 20 from path ../data/Imu20
+2025-02-28 23:35:32,942 - INFO - Attempting to load IMU data for dataset 20.
+2025-02-28 23:35:32,946 - INFO - Successfully loaded IMU data for dataset 20.
+2025-02-28 23:35:32,946 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-02-28 23:35:32,946 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-02-28 23:35:32,954 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-02-28 23:35:32,954 - INFO - Attempting to load point cloud data for PC number 4.
+2025-02-28 23:35:32,957 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-02-28 23:35:32,957 - INFO - Accessing encoder data for dataset 20.
+2025-02-28 23:35:32,957 - INFO - Fetching Encoder Data
+2025-02-28 23:35:32,957 - INFO - Encoder Counts Shape: (4, 4956)
+2025-02-28 23:35:32,957 - INFO - Encoder Stamps Shape: (4956,)
+2025-02-28 23:35:32,957 - INFO - Accessing Lidar data for dataset 20.
+2025-02-28 23:35:32,957 - INFO - Fetching Lidar Data
+2025-02-28 23:35:32,957 - INFO - Lidar Range Shape: (1081, 4962)
+2025-02-28 23:35:32,957 - INFO - Lidar Angle Min: -2.356194490192345
+2025-02-28 23:35:32,957 - INFO - Lidar Angle Max: 2.356194490192345
+2025-02-28 23:35:32,957 - INFO - Lidar Time Stamps: (4962,)
+2025-02-28 23:35:32,957 - INFO - Accessing IMU data for dataset 20.
+2025-02-28 23:35:32,957 - INFO - Fetching IMU Data
+2025-02-28 23:35:32,957 - INFO - IMU Angular Velocity Shape: (3, 12187)
+2025-02-28 23:35:32,957 - INFO - IMU Linear Acceleration Shape: (3, 12187)
+2025-02-28 23:35:32,957 - INFO - IMU Stamps Shape: (12187,)
+2025-02-28 23:35:32,957 - INFO - Accessing point cloud data for source and target
+2025-02-28 23:35:32,957 - INFO - Fetching PointCloud Data
+2025-03-01 00:28:18,409 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:28:18,409 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:28:18,410 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:28:18,410 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:28:18,410 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:28:18,524 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:28:18,524 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:28:18,524 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:28:18,527 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:28:18,527 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:28:18,527 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:28:18,528 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:28:18,528 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:28:18,529 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:28:18,529 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:28:18,529 - INFO - Fetching Encoder Data
+2025-03-01 00:28:18,529 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:28:18,529 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:28:18,529 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:28:18,529 - INFO - Fetching Lidar Data
+2025-03-01 00:28:18,529 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:28:18,529 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:28:18,529 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:28:18,529 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:28:18,529 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:28:18,529 - INFO - Fetching IMU Data
+2025-03-01 00:28:18,529 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:28:18,529 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:28:18,529 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:28:18,529 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:28:18,529 - INFO - Fetching PointCloud Data
+2025-03-01 00:40:51,785 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:40:51,785 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:40:51,786 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:40:51,786 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:40:51,786 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:40:51,898 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:40:51,898 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:40:51,898 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:40:51,902 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:40:51,902 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:40:51,902 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:40:51,903 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:40:51,903 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:40:51,904 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:40:51,904 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:40:51,904 - INFO - Fetching Encoder Data
+2025-03-01 00:40:51,904 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:40:51,904 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:40:51,904 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:40:51,904 - INFO - Fetching Lidar Data
+2025-03-01 00:40:51,904 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:40:51,904 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:40:51,904 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:40:51,904 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:40:51,904 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:40:51,904 - INFO - Fetching IMU Data
+2025-03-01 00:40:51,904 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:40:51,904 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:40:51,904 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:40:51,904 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:40:51,904 - INFO - Fetching PointCloud Data
+2025-03-01 00:40:56,050 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:40:56,050 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:40:56,051 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:40:56,051 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:40:56,051 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:40:56,161 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:40:56,161 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:40:56,161 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:40:56,165 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:40:56,165 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:40:56,165 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:40:56,166 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:40:56,166 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:40:56,167 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:40:56,167 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:40:56,167 - INFO - Fetching Encoder Data
+2025-03-01 00:40:56,167 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:40:56,167 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:40:56,167 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:40:56,167 - INFO - Fetching Lidar Data
+2025-03-01 00:40:56,167 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:40:56,167 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:40:56,167 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:40:56,167 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:40:56,167 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:40:56,167 - INFO - Fetching IMU Data
+2025-03-01 00:40:56,167 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:40:56,167 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:40:56,167 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:40:56,167 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:40:56,167 - INFO - Fetching PointCloud Data
+2025-03-01 00:41:45,072 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:41:45,072 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:41:45,073 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:41:45,073 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:41:45,073 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:41:45,195 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:41:45,195 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:41:45,195 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:41:45,198 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:41:45,198 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:41:45,198 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:41:45,200 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:41:45,200 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:41:45,200 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:41:45,200 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:41:45,201 - INFO - Fetching Encoder Data
+2025-03-01 00:41:45,201 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:41:45,201 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:41:45,201 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:41:45,201 - INFO - Fetching Lidar Data
+2025-03-01 00:41:45,201 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:41:45,201 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:41:45,201 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:41:45,201 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:41:45,201 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:41:45,201 - INFO - Fetching IMU Data
+2025-03-01 00:41:45,201 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:41:45,201 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:41:45,201 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:41:45,201 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:41:45,201 - INFO - Fetching PointCloud Data
+2025-03-01 00:45:00,696 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:45:00,696 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:45:00,697 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:45:00,698 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:45:00,698 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:45:00,808 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:45:00,808 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:45:00,808 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:45:00,811 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:45:00,811 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:45:00,811 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:45:00,812 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:45:00,812 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:45:00,813 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:45:00,813 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:45:00,813 - INFO - Fetching Encoder Data
+2025-03-01 00:45:00,813 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:45:00,813 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:45:00,813 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:45:00,813 - INFO - Fetching Lidar Data
+2025-03-01 00:45:00,813 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:45:00,813 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:45:00,813 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:45:00,813 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:45:00,813 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:45:00,813 - INFO - Fetching IMU Data
+2025-03-01 00:45:00,813 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:45:00,813 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:45:00,813 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:45:00,813 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:45:00,813 - INFO - Fetching PointCloud Data
+2025-03-01 00:45:38,777 - INFO - Initializing Encoder with dataset 21 from path ../data/Encoder21.npz
+2025-03-01 00:45:38,777 - INFO - Attempting to load encoder data for dataset 21.
+2025-03-01 00:45:38,778 - INFO - Successfully loaded encoder data for dataset 21.
+2025-03-01 00:45:38,778 - INFO - Initializing Lidar with dataset 21 from path ../data/Hokuyo21
+2025-03-01 00:45:38,778 - INFO - Attempting to load Lidar data for dataset 21.
+2025-03-01 00:45:38,893 - INFO - Successfully loaded Lidar data for dataset 21.
+2025-03-01 00:45:38,893 - INFO - Initializing IMU with dataset 21 from path ../data/Imu21
+2025-03-01 00:45:38,893 - INFO - Attempting to load IMU data for dataset 21.
+2025-03-01 00:45:38,896 - INFO - Successfully loaded IMU data for dataset 21.
+2025-03-01 00:45:38,896 - INFO - Initializing PointCloud with model 'drill' and pointcloud number 4
+2025-03-01 00:45:38,896 - INFO - Attempting to load canonical point cloud data for model 'drill'.
+2025-03-01 00:45:38,898 - INFO - Successfully loaded canonical point cloud data for model 'drill'.
+2025-03-01 00:45:38,898 - INFO - Attempting to load point cloud data for PC number 4.
+2025-03-01 00:45:38,898 - INFO - Successfully loaded point cloud data for PC number 4.
+2025-03-01 00:45:38,898 - INFO - Accessing encoder data for dataset 21.
+2025-03-01 00:45:38,898 - INFO - Fetching Encoder Data
+2025-03-01 00:45:38,898 - INFO - Encoder Counts Shape: (4, 4789)
+2025-03-01 00:45:38,898 - INFO - Encoder Stamps Shape: (4789,)
+2025-03-01 00:45:38,899 - INFO - Accessing Lidar data for dataset 21.
+2025-03-01 00:45:38,899 - INFO - Fetching Lidar Data
+2025-03-01 00:45:38,899 - INFO - Lidar Range Shape: (1081, 4785)
+2025-03-01 00:45:38,899 - INFO - Lidar Angle Min: -2.356194490192345
+2025-03-01 00:45:38,899 - INFO - Lidar Angle Max: 2.356194490192345
+2025-03-01 00:45:38,899 - INFO - Lidar Time Stamps: (4785,)
+2025-03-01 00:45:38,899 - INFO - Accessing IMU data for dataset 21.
+2025-03-01 00:45:38,899 - INFO - Fetching IMU Data
+2025-03-01 00:45:38,899 - INFO - IMU Angular Velocity Shape: (3, 11730)
+2025-03-01 00:45:38,899 - INFO - IMU Linear Acceleration Shape: (3, 11730)
+2025-03-01 00:45:38,899 - INFO - IMU Stamps Shape: (11730,)
+2025-03-01 00:45:38,899 - INFO - Accessing point cloud data for source and target
+2025-03-01 00:45:38,899 - INFO - Fetching PointCloud Data
